@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## W. Brian Blevins
 
 You can use the [editor on GitHub](https://github.com/wbrianblevins/wbrianblevins.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
